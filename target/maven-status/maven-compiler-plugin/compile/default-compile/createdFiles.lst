@@ -1,0 +1,12 @@
+com/rmj/xml/model/ShipInfoType.class
+com/rmj/xml/model/CustomerType.class
+com/rmj/pgm/DriverPgm.class
+com/rmj/xml/model/AddressType.class
+com/rmj/pgm/DriverPgm$1.class
+com/rmj/xml/model/Root$Orders.class
+com/rmj/xml/model/Root.class
+com/rmj/xml/model/ObjectFactory.class
+com/rmj/pgm/model/Phone.class
+com/rmj/xml/model/Root$Customers.class
+com/rmj/xml/model/OrderType.class
+com/rmj/xml/XMLtoAVRO.class
